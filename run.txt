@@ -1,0 +1,6 @@
+python -m app.scripts.ingest_demo
+AIzaSyCE6t02ui-P5TTd49qvsgT3He1fPUeHuJw
+
+# from project root
+python -m app.scripts.ingest_demo
+uvicorn app.main:app --reload
